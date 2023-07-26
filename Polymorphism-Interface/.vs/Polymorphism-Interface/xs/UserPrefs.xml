@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E29855BD-51A1-44DA-B130-1CC21AC8ED85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Polymorphism-Interface/Program.cs">
+    <Files>
+      <File FileName="Polymorphism-Interface/Program.cs" Line="1" Column="1" />
+      <File FileName="Polymorphism-Interface/Services/Interfaces/ICalculation.cs" Line="10" Column="1" />
+      <File FileName="Polymorphism-Interface/Services/CalculationService.cs" Line="30" Column="21" />
+      <File FileName="Polymorphism-Interface/Controllers/CalculationController.cs" Line="57" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polymorphism-Interface" expanded="True">
+            <Node name="Polymorphism-Interface" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Polymorphism-Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

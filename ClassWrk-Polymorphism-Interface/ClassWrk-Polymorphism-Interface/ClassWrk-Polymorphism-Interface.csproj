@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ClassWrk_Polymorphism_Interface</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\ResponseMessages\" />
+    <None Remove="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\ResponseMessages\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/bin/Debug/net6.0/Polymorphism-Interface
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/bin/Debug/net6.0/Polymorphism-Interface.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/bin/Debug/net6.0/Polymorphism-Interface.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/bin/Debug/net6.0/Polymorphism-Interface.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/bin/Debug/net6.0/Polymorphism-Interface.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/refint/Polymorphism-Interface.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/Polymorphism-Interface.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/Polymorphism-Interface/Polymorphism-Interface/obj/Debug/net6.0/ref/Polymorphism-Interface.dll

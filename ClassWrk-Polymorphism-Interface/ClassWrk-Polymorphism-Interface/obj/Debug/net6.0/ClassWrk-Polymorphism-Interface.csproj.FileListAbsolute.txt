@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/bin/Debug/net6.0/ClassWrk-Polymorphism-Interface
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/bin/Debug/net6.0/ClassWrk-Polymorphism-Interface.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/bin/Debug/net6.0/ClassWrk-Polymorphism-Interface.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/bin/Debug/net6.0/ClassWrk-Polymorphism-Interface.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/bin/Debug/net6.0/ClassWrk-Polymorphism-Interface.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/refint/ClassWrk-Polymorphism-Interface.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ClassWrk-Polymorphism-Interface.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm9/ClassWrk-Polymorphism-Interface/ClassWrk-Polymorphism-Interface/obj/Debug/net6.0/ref/ClassWrk-Polymorphism-Interface.dll
